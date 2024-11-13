@@ -28,7 +28,7 @@ To set up the environment for this tool, first ensure you have Python installed.
 pip install -r Requirements.txt
 ```
 
-###Key Dependencies
+## Key Dependencies
 
 Streamlit: Used for building an interactive web interface.
 
@@ -45,7 +45,7 @@ Google Generative AI: Optional module for AI-enhanced features.
 
 For a complete list of dependencies, please refer to the Requirements.txt file.
 
-###Usage
+## Usage
 
 1. Launching the Interface: Run the following command to launch the Streamlit interface:
 
@@ -61,11 +61,11 @@ streamlit run Attention.py
 
 
 
-###Contributing
+## Contributing
 
 If you would like to contribute to the project, feel free to open a pull request. We welcome improvements and suggestions, especially those enhancing the dataset, model comparison, and performance analysis features.
 
-###License
+## License
 
 This project is licensed under the MIT License.
 
