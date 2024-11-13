@@ -1,0 +1,10 @@
+streamlit
+transformers
+sentence-transformers
+faiss-cpu
+pdfplumber
+requests
+python-dotenv
+torch
+numpy
+google-generativeai
